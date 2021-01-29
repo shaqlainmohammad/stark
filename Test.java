@@ -1,6 +1,6 @@
 import java.util.Scanner;
 class Variables{
-	//Economy car-----------------------
+	//Economy car---------------------------
 	final static int  basicRentalFare=750;
 	final static int basicDiscount=200;
 	final static int rateExcessKm=8;
